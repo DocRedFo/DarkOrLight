@@ -1,5 +1,5 @@
 <resources>
     <string name="app_name">DarkOrLight</string>
     <string name="text0">Тишина</string>
-    <string name="text1">"Страшные звуки"</string>
+    <string name="text1">\"Страшные звуки\"</string>
 </resources>
